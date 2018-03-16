@@ -1,6 +1,11 @@
 # ArduinoGPS
 
-Libraries used:
+Wiring:
+ * 5V to VDD, GND to GND
+ * Arduino digital pin 3 to GPS TX
+ * Arduino digital pin 4 to GPS RX
+
+Libraries used (included in repo):
  * SoftwareSerial
  * TinyGPS
  
